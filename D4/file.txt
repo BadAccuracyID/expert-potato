@@ -1,0 +1,8 @@
+C#08216471627#C Street
+B#08216471627#B Street
+D#08492839471#D Street
+A#08127481267#A Street
+Budi#0812345678#Anggrek Street
+Vito Caris#012837182#Angke Street
+Valentino#01823184#Binus Street
+Andrew#02412984841#Home Street
